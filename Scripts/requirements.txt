@@ -1,0 +1,15 @@
+# TOE超导体分形线体 — Python环境依赖
+# =====================================
+# 安装命令:
+#   pip install -r requirements.txt
+#
+# 最低版本要求 (经测试):
+#   numpy        >= 1.21  (核心数组计算)
+#   trimesh      >= 3.21  (STL网格导出)
+#   scikit-image >= 0.19  (marching_cubes等值面提取)
+#   scipy        >= 1.7   (ndimage.label连通性验证)
+
+numpy>=1.21
+trimesh>=3.21
+scikit-image>=0.19
+scipy>=1.7
