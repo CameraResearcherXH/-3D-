@@ -9,7 +9,7 @@
 项目来源
  
 结构设计依托《世界泡嵌套维度-真空源能背景模型》理论，模型已在Zenodo预印存档：
-DOI：10.5281/zenodo.20522512  链接：https://doi.org/10.5281/zenodo.20522513
+DOI：10.5281/zenodo.20540367  链接：https://doi.org/10.5281/zenodo.20540367
 理论预言：分形维度d_f\in(2.92,2.98)的氢化铜氧化物结构可实现常温常压超导。
 
 理论关键推导摘要
@@ -101,7 +101,7 @@ STL模型全部严格按照d_f=2.973、总空隙69.7%建模，下载后直接切
 RT/Ambient Pressure Superconductivity Fractal 3D Print Project
  
 Derived from World Bubble Nested Dimension physical model.
-Zenodo DOI：10.5281/zenodo.20522512  Link:https://doi.org/10.5281/zenodo.20522513
+Zenodo DOI：10.5281/zenodo.20540367  Link:https://doi.org/10.5281/zenodo.20540367
 Theoretical prediction: Fractal dimension 2.92\sim2.98 copper hydride oxide realizes room-temperature ambient-pressure superconductivity.
 All codes & STL open under MIT License, free for all research groups to print and test electrical resistivity.
 We welcome experimental teams to verify the structure, upload measured data into Test_Record.
